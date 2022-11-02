@@ -4,10 +4,8 @@
      <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=005C96&center=true&vCenter=true&lines=Developer+fullstack;Next+addict;vuejs+for+life,Blender+addict">
      <h3 align="center">I'm web developper junior and I make some application, and some others stuff in developement.</h3>
 </p>
-
-<br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/roland-appert/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roland-appert/" height="30" width="40" /></a>
 </p>
 <br/>
