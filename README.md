@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roland APPERT</h1>
+<h1 align="center">Hi, I'm Roland APPERT</h1>
 <h3 align="center">Web Developper - Full Stack</h3>
 
 - 🔭 I’m currently working on **Scoreur App**
