@@ -5,6 +5,8 @@
     <h3 align="center">Web Developper - Full Stack<</h3>
      <h3 align="center">I'm web developper junior and I make some application, and some others stuff in developement.</h3>
 </p>
+<br/>
+<br/>
 - 🔭 I’m currently working on **Scoreur App**
 
 - 🌱 I’m currently learning **Next, Graphql, Three, Gsap, Blender**
