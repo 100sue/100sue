@@ -65,7 +65,7 @@
 
 
 <h1 align="center">Contact Me</h1>
-<h3 align="center">If you need my expertise for your project 👇</h3>
+<h3 align="center">If you need my expertise for your project <br>👇</h3>
 <p align="center">
   
 <p align="center">
