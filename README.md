@@ -69,7 +69,7 @@
 <p align="center">
   
 <p align="center">
-    - <a href="mailto:scoreur@gmail.com">Send email</a>
+    - <a href="mailto:scoreur@gmail.com">Send email</a> -
     <p style='margin-bottom: 40px'>
     </p>
 </p>  
