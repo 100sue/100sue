@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Roland APPERT</h1>
 <h3 align="center">Web Developper - Full Stack</h3>
 <p style="margin: 15px;" align="center">
-     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=005C96&center=true&vCenter=true&lines=Developer+fullstack;Next+addict;vuejs+for+life,Blender+addict">
+     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=005C96&center=true&vCenter=true&lines=Developer+fullstack;Nuxt+addict;vuejs+for+life,Blender+addict">
      <h3 align="center">I'm web developper junior and I make some application, and some others stuff in developement.</h3>
 </p>
 <h3 align="center">Connect with me:</h3>
