@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Next, Graphql, Three, Gsap, Blender**
 
-- 👨‍💻 All of my projects are available at [https://100sue.github.io/Portfolio/](https://100sue.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://100sue.github.io/portfolio-v4/)
 
 - 📫 How to reach me **scoreur@gmail.com**
 
