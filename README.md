@@ -11,7 +11,7 @@
 <br/>
 - 🔭 I’m currently working on **Scoreur App**
 
-- 🌱 I’m currently learning **Next, Graphql, Three, Gsap, Blender**
+- 🌱 I’m currently learning **Nuxt, Graphql, Three, Gsap, Blender**
 
 - 👨‍💻 All of my projects are available at [https://100sue.github.io/portfolio-v4/)
 
