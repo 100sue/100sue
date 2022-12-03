@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **scoreur@gmail.com**
 
-- 📄 Know about me [https://100sue.github.io/CV/](https://100sue.github.io/CV/)
+- 📄 Know about me 
 
 <br/>
 
