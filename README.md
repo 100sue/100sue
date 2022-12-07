@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **scoreur@gmail.com**
 
-- 📄 Know about me 
+- 📄 Know about me https://100sue.github.io/portfolio-glass/
 
 <br/>
 
