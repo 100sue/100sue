@@ -12,6 +12,7 @@
 - 🔭 I’m currently working on **Scoreur App**, **In my fridge App**.
 
 - 🌱 I’m currently learning **Nuxt, Graphql, Three, Gsap, Blender**
+- 🌱 Others interest : **Pentest (backtrack2), and Osint **.
 
 - 👨‍💻 All of my projects are available at [https://100sue.github.io/portfolio-neuro/)
 
