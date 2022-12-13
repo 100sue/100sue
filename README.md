@@ -9,9 +9,10 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/roland-appert/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roland-appert/" height="30" width="40" /></a>
 </p>
 <br/>
-- 🔭 **I’m currently working on Scoreur-App, Bocuse-App**
+- 🔭 I’m currently working on ** Scoreur-App, Bocuse-App **
 
 - 🌱 I’m currently learning **Nuxt, Graphql, Three, Gsap, Blender**
+
 - 🌱 Others interest : **Pentest (backtrack2), and Osint**
 
 - 👨‍💻 All of my projects are available at [https://100sue.github.io/portfolio-neuro/)
