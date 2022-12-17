@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Nuxt, Graphql, Three, Gsap, Blender**
 
-- 🌱 Others interest : **Pentest (backtrack2), and Osint**
+- 🌱 Others interest : **Pentest (kali linux), and Osint**
 
 - 👨‍💻 All of my projects are available at [https://100sue.github.io/portfolio-neuro/)
 
