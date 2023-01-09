@@ -16,11 +16,11 @@
 
 - 🌱 Others interest : **Pentest (kali linux), and Osint**
 
-- 👨‍💻 All of my projects are available at [https://100sue.github.io/portfolio-neuro/)
+- 👨‍💻 All of my projects are available at https://100sue.github.io/portfolio-neuro/
 
 - 📫 How to reach me **scoreur@gmail.com**
 
-- 📄 Know about me https://100sue.github.io/portfolio-glass/
+- 📄 Know about me https://100sue.github.io/portfolio-glass/ - https://100sue.github.io/portfolio-v4/
 
 <br/>
 
