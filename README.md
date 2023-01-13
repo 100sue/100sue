@@ -2,7 +2,7 @@
 <h3 align="center">Web Developper - Full Stack</h3>
 <p style="margin: 15px;" align="center">
      <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=005C96&center=true&vCenter=true&lines=Developer+fullstack;Nuxt+addict;vuejs+for+life,Blender+addict">
-     <h3 align="center">I'm web developper junior and I make some application, and some others stuff in developement.</h3>
+     <h3 align="center">I'm web developper and I make some application, and some others stuff in developement.</h3>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Nuxt, Graphql, Three, Gsap, Blender**
 
-- 🌱 Others interest : **Pentest (kali linux), and Osint**
+- 🌱 Others interest : **Pentest (kali linux), and Osint, AI (OpenAi)**
 
 - 👨‍💻 All of my projects are available at https://100sue.github.io/portfolio-neuro/
 
