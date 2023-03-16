@@ -24,7 +24,8 @@
 
 - 👨‍💻 Prompt engineering and Design with Ai (stable difusion, lexi art, middjourney, playground ai, ...):
    <br/>
-     - link 1: https://playgroundai.com/profile/cldmuxgap2e9fs601u7htlo15
+     - My art: https://playgroundai.com/profile/cldmuxgap2e9fs601u7htlo15
+     - Maquette design : https://playgroundai.com/profile/cldwscqw306k3s601o7p7tg2h
      
 
 <br/>
