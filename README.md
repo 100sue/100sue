@@ -14,10 +14,10 @@
 
 - 🌱 I’m currently learning **Nuxt, Graphql, Three, Gsap, Blender,Python**
 
-- 🌱 Others interest :
-   - **Pentest (kali linux), and Osint**
-   - **AI : OpenAi, Playground Ai, Middjourney, stable difusion**
-   - **Facial Recognition with python**
+- 🌱 **Others interest :**
+   - Pentest (kali linux), and Osint.
+   - AI : OpenAi, Playground Ai, Middjourney, stable difusion.
+   - Facial Recognition with python.
 
 - 👨‍💻 All of my projects are available at https://100sue.github.io/portfolio-neuro/
 
