@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Nuxt, Graphql, Three, Gsap, Blender,Python**
 
 - 🌱 Others interest :
-   - **Pentest (kali linux), and Osint **
+   - **Pentest (kali linux), and Osint**
    - **AI : OpenAi, Playground Ai, Middjourney, stable difusion**
    - **Facial Recognition with python**
 
