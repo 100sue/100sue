@@ -12,9 +12,12 @@
 - 🔭 I’m currently working on ** Scoreur-App, Like Bocuse, Protector App **
 -
 
-- 🌱 I’m currently learning **Nuxt, Graphql, Three, Gsap, Blender**
+- 🌱 I’m currently learning **Nuxt, Graphql, Three, Gsap, Blender,Python**
 
-- 🌱 Others interest : **Pentest (kali linux), and Osint, AI : OpenAi, Playground Ai, Middjourney, stable difusion**
+- 🌱 Others interest :
+   - **Pentest (kali linux), and Osint **
+   - **AI : OpenAi, Playground Ai, Middjourney, stable difusion**
+   - **Facial Recognition with python**
 
 - 👨‍💻 All of my projects are available at https://100sue.github.io/portfolio-neuro/
 
