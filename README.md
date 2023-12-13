@@ -19,11 +19,11 @@
    - AI : OpenAi, Playground Ai, Middjourney, stable difusion.
    - Facial Recognition with python.
 
-- 👨‍💻 All of my projects are available at https://100sue.github.io/portfolio-neuro/
+- 👨‍💻 All of my projects are available at https://100sue.github.io/portfolio-v4/ or https://100sue.github.io/portfolio-2023/.
 
 - 📫 How to reach me **scoreur@gmail.com**
 
-- 📄 Know about me https://100sue.github.io/portfolio-glass/ - https://100sue.github.io/portfolio-v4/
+- 📄 Know about me https://100sue.github.io/portfolio-glass/ - https://100sue.github.io/portfolio-neuro/ - 
 
 - 👨‍💻 Prompt engineering and Design with Ai (stable difusion, lexi art, middjourney, playground ai, ...):
    <br/>
