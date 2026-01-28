@@ -19,7 +19,7 @@
    - AI : OpenAi, Playground Ai, Middjourney, stable difusion.
    - Facial Recognition with python.
 
-- 👨‍💻 All of my projects are available at https://100sue.github.io/portfolio2026/ or https://100sue.github.io/my-portfolio/ or https://100sue.github.io/portfolio-2024-2025/ or https://100sue.github.io/pofolio-ultimate/.
+- 👨‍💻 All of my projects are available at https://100sue.github.io/portfolio2026/ or https://100sue.github.io/pofolio-ultimate/ or  or .
 
 - 📫 How to reach me **scoreur@gmail.com**
 
