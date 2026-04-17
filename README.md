@@ -20,9 +20,9 @@
    - Facial Recognition with python.
 
 - 👨‍💻 All of my projects are available at  https://100sue.github.io/portfolio-agency-fr/
- or https://100sue.github.io/portfolio-geek/
- or  https://100sue.github.io/pofolio-ultimate/
- or  https://100sue.github.io/portfolio2026/.
+ - or https://100sue.github.io/portfolio-geek/
+ - or  https://100sue.github.io/pofolio-ultimate/
+ - or  https://100sue.github.io/portfolio2026/.
 
 - 📫 How to reach me **scoreur@gmail.com**
 
